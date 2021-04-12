@@ -6,7 +6,7 @@ within a few days where there was no free capacity.
 
 The testing capacity was increased recently, therefore most of the time it's possible to successfully register directly on their [Registration site](https://rezervacecovid.fnol.cz/Pages/Calendar2.aspx?calendarType=Public).
 
-![FNOL reservation system](./screenshot.png)
+![FNOL reservation system, src: https://rezervacecovid.fnol.cz/Pages/Calendar2.aspx?calendarType=Public](./screenshot.png)
 
 But if you are in hurry and need to be tested ASAP (even today), you might still use this code to get the closest testing slot possible. 
 
