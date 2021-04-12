@@ -67,4 +67,3 @@ Non-zero code returned if information filled is incorrect (or something else goe
 ## Possible improvements
 
 - Switch to the other month when selecting month (just call javascript function ```cycleMonth(1) ```). Currently searches only on default-displayed month
-
